@@ -1,14 +1,10 @@
-Erasmus University projects:
+Erasmus University Projects:
 
 Film Library:
-L'app permette di gestire una collezione personale di film, serie TV e documentari. 
-Include funzionalità per aggiungere, modificare e visualizzare opere con titolo, data di uscita, categoria, stato (visto/non visto), valutazione e commento.
-L’interfaccia consente il filtro e l’ordinamento per categoria e stato, con anteprima e possibilità di modifica solo per i contenuti non ancora visti. 
-È possibile caricare immagini dalla galleria, eliminare elementi con pressione prolungata e visualizzare un riepilogo dei titoli filtrati.
+This app allows users to manage a personal collection of movies, TV shows, and documentaries. Key features include adding, editing, and viewing entries with details such as title, release date, category, watch status (watched/unwatched), rating, and comments. The interface supports filtering and sorting by category and watch status. Users can preview and edit only unwatched content. Additional functionalities include uploading images from the gallery, deleting items via long press, and viewing a summary of filtered titles.
 
 Location Notes:
-App per la creazione e gestione di note, le note possono includere fotografie e note audio.
-L'app permette anche di disegnare sopra le foto.
+A note-taking app designed for creating and managing notes enriched with photos and voice recordings. Users can also draw directly on the photos to add visual annotations.
 
 RssNews:
-L'app prende le ultime notizie da una pagina ufficiale polacca, mostra quali hai gia visualizzato e ti permette di salvarti le tue preferite.
+This app fetches the latest news from an official Polish news source. It tracks which articles have already been viewed and allows users to save their favorite stories for easy access.
