@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Diary</string>
+
+    <!-- Login -->
+    <string name="enter_pin">Enter your PIN</string>
+    <string name="pin_label">PIN</string>
+    <string name="login">Login</string>
+
+    <!-- Home -->
+    <string name="welcome">Welcome</string>
+    <string name="modify_photo">Modify Photo</string>
+    <string name="new_entry">New Entry</string>
+    <string name="audio_attached">Audio attached</string>
+    <string name="town_label">Town: %1$s</string>
+    <string name="cannot_play_audio">Cannot play audio</string>
+
+    <!-- Form -->
+    <string name="microphone_permission_required">Microphone permission is required to record audio</string>
+    <string name="edit_entry">Edit Entry</string>
+    <string name="description">Description</string>
+    <string name="select_image">Select Image</string>
+    <string name="audio">Audio</string>
+    <string name="stop">Stop</string>
+    <string name="record">Record</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="update_entry">Update Entry</string>
+    <string name="save_entry">Save Entry</string>
+
+</resources>

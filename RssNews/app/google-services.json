@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050539024199",
+    "firebase_url": "https://rssnews2-8d49f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rssnews2-8d49f",
+    "storage_bucket": "rssnews2-8d49f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050539024199:android:d0ddb0183ff7c7dd73b662",
+        "android_client_info": {
+          "package_name": "com.example.rssnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050539024199-gpnukcu5ri8trbjj0epbs16bejvsf1rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoUS8HzeN9bHqq2FY1DPsPQ2cphMjN_fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050539024199-gpnukcu5ri8trbjj0epbs16bejvsf1rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

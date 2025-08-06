@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FilmWork (AppProject)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="category_list">
+        <item>Film</item>
+        <item>Series</item>
+        <item>Documentary</item>
+    </string-array>
+
+    <string-array name="filter_category_list">
+        <item>All</item>
+        <item>Film</item>
+        <item>Series</item>
+        <item>Documentary</item>
+    </string-array>
+
+
+</resources>
